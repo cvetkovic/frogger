@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -5.847
+TNS   : -982.351
+
+Type  : Slow 1200mV 85C Model Setup 'KEY_DECODER:inst3|KEY_DECODER_OP:inst|KEY_INTERFACE:insta|Debounce:inst41|inst'
+Slack : -1.130
+TNS   : -11.473
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : 0.249
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'KEY_DECODER:inst3|KEY_DECODER_OP:inst|KEY_INTERFACE:insta|Debounce:inst41|inst'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -267.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'KEY_DECODER:inst3|KEY_DECODER_OP:inst|KEY_INTERFACE:insta|Debounce:inst41|inst'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -5.164
+TNS   : -856.699
+
+Type  : Slow 1200mV 0C Model Setup 'KEY_DECODER:inst3|KEY_DECODER_OP:inst|KEY_INTERFACE:insta|Debounce:inst41|inst'
+Slack : -0.908
+TNS   : -8.949
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : 0.161
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'KEY_DECODER:inst3|KEY_DECODER_OP:inst|KEY_INTERFACE:insta|Debounce:inst41|inst'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -267.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'KEY_DECODER:inst3|KEY_DECODER_OP:inst|KEY_INTERFACE:insta|Debounce:inst41|inst'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -2.989
+TNS   : -464.096
+
+Type  : Fast 1200mV 0C Model Setup 'KEY_DECODER:inst3|KEY_DECODER_OP:inst|KEY_INTERFACE:insta|Debounce:inst41|inst'
+Slack : -0.199
+TNS   : -1.760
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : 0.086
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'KEY_DECODER:inst3|KEY_DECODER_OP:inst|KEY_INTERFACE:insta|Debounce:inst41|inst'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -283.046
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'KEY_DECODER:inst3|KEY_DECODER_OP:inst|KEY_INTERFACE:insta|Debounce:inst41|inst'
+Slack : -1.000
+TNS   : -20.000
+
+------------------------------------------------------------
